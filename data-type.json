@@ -1,0 +1,40 @@
+{
+    "username": "elzero",
+    "country": "egypt",
+    "skills": [
+        [
+            "html",
+            "css",
+            "haml"
+        ],
+        [
+            "css",
+            "sass",
+            "less"
+        ],
+        [
+            "ls",
+            "babel"
+        ]
+    ],
+    "skillsProgerss": [
+        {
+            "html": "60%",
+            "pugjs": "50%"
+        },
+        {
+            "css": "50%",
+            "sass": "40%"
+        }
+    ],
+    "adressess": {
+        "egypt": "hadayek",
+        "ksa": "Malaz",
+        "usa": "california",
+        "germany": [
+            "one",
+            "two",
+            "three"
+        ]
+    }
+}
